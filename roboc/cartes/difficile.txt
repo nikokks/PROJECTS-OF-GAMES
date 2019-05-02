@@ -1,0 +1,23 @@
+
+
+OOOOOOOOOOOOOOOOOOOO
+O .O O    O .      O
+OOO OOOOOO . OOOOO O
+O   OO   O O O     O
+O.OOO. O O OOO.OOOOO
+O   O OO   OOO     O
+OOOOO OOOO   OOOOO O
+O O O.OOOOOOOO     O
+O.O O        O   OOO
+O O OOOOOOO.OO     O
+O O O        OOOOO.O
+O O.OO.OOOOOOO    XO
+U.O .        O     O
+O O O        O     O
+O O O        O.OOOOO
+O O O        O     O
+O O O        O     O
+O.O O        O     O
+O   O        O     O
+OOOOOOOOOOOOOOOOOOOO
+
